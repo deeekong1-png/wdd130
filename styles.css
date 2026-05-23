@@ -4,15 +4,30 @@ body {
   padding: 0;
 }
 
-header {
-  background-color: steelblue;
-  color: white;
+main {
+  max-width: 800px;
+  margin: 0 auto;
   padding: 20px;
+}
+
+main img {
+  width: 150px;
+  height: auto;
+}
+
+aside {
+  width: 300px;
+  margin: 20px auto;
+  border: 2px solid steelblue;
+  padding: 15px;
+  background-color: #f0f8ff;
+  color: #333;
   text-align: center;
 }
 
-main {
-  padding: 20px;
+aside img {
+  width: 200px;
+  height: auto;
 }
 
 p {
@@ -24,4 +39,5 @@ footer {
   border-top: 2px solid steelblue;
   text-align: center;
   padding: 10px;
+}
 }
