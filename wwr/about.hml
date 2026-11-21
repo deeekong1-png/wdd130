@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>About Us | White Water Rafting Adventures</title>
   <meta name="description" content="Learn about White Water Rafting Adventures, our river history, mission, and guided white water rafting experiences.">
-  <meta name="author" content="Your Full Name">
+  <meta name="author" content="Divine Ekong">
   <link rel="stylesheet" href="styles/rafting.css">
 </head>
 <body>
@@ -40,7 +40,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2026 | White Water Rafting Adventures | Your Full Name</p>
+    <p>&copy; 2026 | White Water Rafting Adventures | Divine Ekong</p>
     <nav class="socialmedia">
       <a href="https://facebook.com">
         <img src="images/facebook.svg" alt="Facebook">
