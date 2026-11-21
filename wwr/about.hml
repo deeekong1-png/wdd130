@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us | White Water Rafting Adventures</title>
+  <meta name="description" content="Learn about White Water Rafting Adventures, our river history, mission, and guided white water rafting experiences.">
+  <meta name="author" content="Your Full Name">
+  <link rel="stylesheet" href="styles/rafting.css">
+</head>
+<body>
+  <header>
+    <img src="images/logo.png" alt="White Water Rafting Logo">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Us</a>
+      <a href="trips.html">Trips</a>
+      <a href="contact.html">Contact Us</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="hero">
+      <img src="images/hero.jpg" alt="Rafting crew paddling through white water rapids">
+      <h1>White Water Rafting Adventures</h1>
+      <article>
+        <img src="images/happy-client.jpg" alt="Smiling paddler on a rafting trip">
+        <p>Our mission is to share the thrill and natural beauty of white water rafting safely with every guest, from first-time rafters to seasoned river runners.</p>
+      </article>
+    </div>
+
+    <section>
+      <h2>History</h2>
+      <p>Founded with a single raft and a commitment to river safety and conservation, White Water Rafting Adventures has guided adventurers through scenic canyons for years while protecting local waterways.</p>
+    </section>
+
+    <section>
+      <h2>Adventure Awaits You!</h2>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 | White Water Rafting Adventures | Your Full Name</p>
+    <nav class="socialmedia">
+      <a href="https://facebook.com">
+        <img src="images/facebook.svg" alt="Facebook">
+      </a>
+      <a href="https://twitter.com">
+        <img src="images/twitter.svg" alt="Twitter">
+      </a>
+      <a href="https://instagram.com">
+        <img src="images/instagram.svg" alt="Instagram">
+      </a>
+    </nav>
+  </footer>
+</body>
+</html>
